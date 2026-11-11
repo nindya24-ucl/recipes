@@ -6,5 +6,6 @@
 * salt
 * tomato
 * chili
+* Cumin
 
 ## Instructions
