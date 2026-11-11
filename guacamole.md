@@ -4,5 +4,6 @@
 * avocado
 * lemon
 * salt
+* tomato
 
 ## Instructions
